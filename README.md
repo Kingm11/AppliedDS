@@ -1,15 +1,17 @@
 # Creating pipline using Pycaret3
 ## Overview
-### The pipeline uses Pycaret3 to create a machine learning model to predict the species of an iris flower based on its characteristics.
 
-### The pipeline loads the iris dataset from Pycaret3's built-in datasets and sets the target variable as 'species'.
+1. ### The pipeline uses Pycaret3 to create a machine learning model to predict the species of an iris flower based on its characteristics.
 
-### The pipeline uses Pycaret3's setup() function to preprocess the data and set up the machine learning pipeline.
-### The pipeline creates a Random Forest model using Pycaret3's create_model() function.
+2. ### The pipeline loads the iris dataset from Pycaret3's built-in datasets and sets the target variable as 'species'.
 
-### The pipeline evaluates the model using Pycaret3's plot_model() function to visualize the confusion matrix.
+3. ### The pipeline uses Pycaret3's setup() function to preprocess the data and set up the machine learning pipeline.
 
-### The pipeline deploys the model using Pycaret3's deploy_model() function, making it available for predictions through an API endpoint.
+4. ### The pipeline creates a Random Forest model using Pycaret3's create_model() function.
+
+5. ### The pipeline evaluates the model using Pycaret3's plot_model() function to visualize the confusion matrix.
+
+6. ### The pipeline deploys the model using Pycaret3's deploy_model() function, making it available for predictions through an API endpoint.
 
 ## Data
 ### I imported the data ' Iris dataset' from a URL using Pandas' read_csv function , and then clean the data by removing any rows with missing or invalid values, and remove any duplicate rows.
