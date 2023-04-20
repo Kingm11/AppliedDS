@@ -39,6 +39,10 @@
 
 5. ### Deploy the model: Finally, we deploy the model using Pycaret3's deploy_model() function. This function allows us to serve the model through an API endpoint, making it available for predictions.
 
+## Technol0gies used
+
+[.pycaret](https://pycaret.org/)
+
 ## Visualization
 ### I created several visualizations using Seaborn and Matplotlib, including a histogram of the sepal length by class, a scatterplot of the sepal length and petal length colored by class
 
