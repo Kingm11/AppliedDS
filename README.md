@@ -47,9 +47,16 @@
 ## Visualization
 
 
-![image](https://user-images.githubusercontent.com/122539722/231402756-eabd6b59-e028-4e56-842a-c715736ba698.png)
+![image](https://github.com/Kingm11/AppliedDS/blob/main/Visuals/Screenshot%202023-04-19%20235416.png)
 
 
-![image](https://user-images.githubusercontent.com/122539722/231403198-173a3015-5efa-4207-bf0a-6ea159561f3d.png)
+![image](https://github.com/Kingm11/AppliedDS/blob/main/Visuals/2.png)
+
+![image](https://github.com/Kingm11/AppliedDS/blob/main/Visuals/3.png)
+
+![image](https://github.com/Kingm11/AppliedDS/blob/main/Visuals/4.png)
+
+![image](https://github.com/Kingm11/AppliedDS/blob/main/Visuals/5.png)
+
 
 
