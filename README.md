@@ -30,7 +30,7 @@
 5. ### Use the plot_model() function to visualize the performance of the best performing model.
 6. ### Use the predict_model() function to make predictions on new data using the best performing model.
 
-## Technol0gies used
+## Technologies used
 
 [.pycaret](https://pycaret.org/)
 
