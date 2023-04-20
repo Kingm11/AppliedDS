@@ -1,5 +1,9 @@
 # Creating pipline using Pycaret3
 ## Overview
+ 
+ 1. ### The code uses Pycaret3, a Python library for machine learning, to create a pipeline on the Iris dataset.
+2. ### The pipeline includes steps for data preprocessing, model training, model tuning, and model evaluation.
+3. ### The code also includes functions for comparing and visualizing multiple models.
 
 1. ### The pipeline uses Pycaret3 to create a machine learning model to predict the species of an iris flower based on its characteristics.
 
