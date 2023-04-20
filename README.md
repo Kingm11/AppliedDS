@@ -22,7 +22,10 @@
 
 
 ## Data
-### I imported the data ' Iris dataset' from a URL using Pandas' read_csv function , and then clean the data by removing any rows with missing or invalid values, and remove any duplicate rows.
+
+### For this Project, we will use the classic Iris dataset, which contains information about the physical characteristics of different types of iris flowers.
+
+### We loaded the Iris dataset from Scikit-learn and convert it into a Pandas DataFrame.
 https://archive.ics.uci.edu/ml/datasets/iris
 ## Visualization
 ### I created several visualizations using Seaborn and Matplotlib, including a histogram of the sepal length by class, a scatterplot of the sepal length and petal length colored by class
