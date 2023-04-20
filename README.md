@@ -5,17 +5,7 @@
 2. ### The pipeline includes steps for data preprocessing, model training, model tuning, and model evaluation.
 3. ### The code also includes functions for comparing and visualizing multiple models.
 
-1. ### The pipeline uses Pycaret3 to create a machine learning model to predict the species of an iris flower based on its characteristics.
 
-2. ### The pipeline loads the iris dataset from Pycaret3's built-in datasets and sets the target variable as 'species'.
-
-3. ### The pipeline uses Pycaret3's setup() function to preprocess the data and set up the machine learning pipeline.
-
-4. ### The pipeline creates a Random Forest model using Pycaret3's create_model() function.
-
-5. ### The pipeline evaluates the model using Pycaret3's plot_model() function to visualize the confusion matrix.
-
-6. ### The pipeline deploys the model using Pycaret3's deploy_model() function, making it available for predictions through an API endpoint.
 
 ## Scope 
 
