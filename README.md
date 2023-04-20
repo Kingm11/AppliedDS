@@ -13,6 +13,14 @@
 
 6. ### The pipeline deploys the model using Pycaret3's deploy_model() function, making it available for predictions through an API endpoint.
 
+## Scope 
+
+1. ### The scope of this pipeline is to demonstrate how Pycaret3 can be used to build an end-to-end machine learning pipeline with minimal coding effort.
+2. ### Pycaret3 automates the machine learning pipeline, making it easier and faster to build and deploy machine learning models.
+3. ### Pycaret3 can be used for a wide range of machine learning tasks, including classification, regression, clustering, and anomaly detection.
+4. ### This pipeline demonstrates how easy and fast it is to create a machine learning model using Pycaret3. By automating the end-to-end machine learning process, Pycaret3 enables data scientists and machine learning practitioners to focus on high-level tasks such as feature engineering, hyperparameter tuning, and model selection.
+
+
 ## Data
 ### I imported the data ' Iris dataset' from a URL using Pandas' read_csv function , and then clean the data by removing any rows with missing or invalid values, and remove any duplicate rows.
 https://archive.ics.uci.edu/ml/datasets/iris
