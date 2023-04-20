@@ -26,7 +26,19 @@
 ### For this Project, we will use the classic Iris dataset, which contains information about the physical characteristics of different types of iris flowers.
 
 ### We loaded the Iris dataset from Scikit-learn and convert it into a Pandas DataFrame.
-https://archive.ics.uci.edu/ml/datasets/iris
+
+## Steps
+
+1. ### Import libraries and load dataset: The first step is to import the necessary libraries and load the Iris dataset using Pycaret3's built-in get_data() function.
+
+2. ### Setup the pipeline: The next step is to set up the machine learning pipeline using Pycaret3's setup() function. We specify the target variable as 'species' to indicate that we want to predict the species of the iris flower.
+
+3. ### Create a model: We then create a logistic regression model using Pycaret3's create_model() function. We specify 'lr' as the algorithm parameter to indicate that we want to use logistic regression.
+
+4. ### Evaluate the model: We use Pycaret3's plot_model() function to evaluate the performance of the model. This function generates several plots, including a confusion matrix, which helps us assess the model's accuracy.
+
+5. ### Deploy the model: Finally, we deploy the model using Pycaret3's deploy_model() function. This function allows us to serve the model through an API endpoint, making it available for predictions.
+
 ## Visualization
 ### I created several visualizations using Seaborn and Matplotlib, including a histogram of the sepal length by class, a scatterplot of the sepal length and petal length colored by class
 
